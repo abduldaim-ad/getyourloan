@@ -22,9 +22,8 @@ const App = () => {
     }
     else {
       localStorage.setItem("stepInfo", JSON.stringify([{ step: 1, data: "" }]))
-      console.log(stepInfo.step)
     }
-  }, [])
+  }, [stepInfo.step])
 
   const handleDataChange = () => {
     setStepInfo(prevState => ({
