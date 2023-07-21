@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/getyourloan/static/css/main.c54944bc.css",
+    "main.js": "/getyourloan/static/js/main.960c932b.js",
+    "static/js/787.8355ea6a.chunk.js": "/getyourloan/static/js/787.8355ea6a.chunk.js",
+    "index.html": "/getyourloan/index.html",
+    "main.c54944bc.css.map": "/getyourloan/static/css/main.c54944bc.css.map",
+    "main.960c932b.js.map": "/getyourloan/static/js/main.960c932b.js.map",
+    "787.8355ea6a.chunk.js.map": "/getyourloan/static/js/787.8355ea6a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c54944bc.css",
+    "static/js/main.960c932b.js"
+  ]
+}
