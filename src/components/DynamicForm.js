@@ -19,7 +19,7 @@ const DynamicForm = ({ showLabel, placeHolder, inputType, inputStep, stepInfo, n
             padding:3%;
             div{
                 width:50%;
-                background-color:#0b0af5;
+                background-color:#4D96B2;
                 border:2px solid black;
                 box-shadow:2px 2px 5px 5px grey;
                 border-radius:2%;
